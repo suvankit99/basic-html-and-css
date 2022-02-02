@@ -1,0 +1,20 @@
+ p , h1 ,h2 ,#pfp {
+    color: #222831;
+    text-align: center;
+    width: 100%;
+}
+body{
+     background-color:#A6E3E9;
+}
+.hobbies{
+    margin: 0 30 0 30;
+}
+hr{
+    border-style: dotted;
+}
+img{
+    border-radius: 50%;
+}
+form{
+    margin:0 auto 0 auto;
+}
